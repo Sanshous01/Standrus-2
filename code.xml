@@ -11,7 +11,7 @@
     <dateTimeUpload></dateTimeUpload>
     <description></description>
     <deviceName>LGN-LX1</deviceName>
-    <gitRemoteUrl></gitRemoteUrl>
+    <gitRemoteUrl>https://github.com/Sanshous01/Standrus-2.git</gitRemoteUrl>
     <isCastProject>false</isCastProject>
     <landscapeMode>true</landscapeMode>
     <listeningLanguageTag></listeningLanguageTag>
